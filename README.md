@@ -5,7 +5,7 @@ Blockchain / Web Developer💻
 -----------------------------
 
 * 🌍  I'm based in INDIA 🚩
-* 🖥️  See my portfolio at [portfolio-iamvibs.vercel.app]
+* 🖥️  See my portfolio at [portfolio-iamvibs.vercel.app](portfolio-iamvibs.vercel.app)
 * ✉️  You can contact me at [vm11082001@gmail.com](mailto:vm11082001@gmail.com)
 * 🧠  I'm learning Latest Blockchain Technologies
 
