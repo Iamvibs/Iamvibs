@@ -1,7 +1,7 @@
 Hi 👋 My name is Vibhor Mahajan
 ================================
 
-Blockchain / Web Developer💻
+Blockchain / Backend Developer💻
 -----------------------------
 
 * ✉️  You can contact me at [vm11082001@gmail.com](mailto:vm11082001@gmail.com)
